@@ -6,4 +6,5 @@ import com.projectwebspringboot.project.entities.Order;
 
 
 public interface OrderRepository extends JpaRepository<Order, Long> {
+
 }
